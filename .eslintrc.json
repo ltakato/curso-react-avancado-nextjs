@@ -28,7 +28,7 @@
     ],
     "rules": {
       "react/prop-types": "off",
-      "react/react-in-jx-scope": "off",
+      "react/react-in-jsx-scope": "off",
       "react-hooks/rules-of-hooks": "error",
       "react-hooks/exhaustive-deps": "warn",
       "@typescript-eslint/explicit-module-boundary-types": "off"
